@@ -8,7 +8,7 @@ AI engineering trainee based in Scotland, focused on building intelligent produc
 
 - **Languages:** Python, JavaScript
 - **Frameworks and tools:** FastAPI, React Native, Expo, Supabase
-- **Current study:** Intermediate Python (OOP, decorators, file handling), LLM integration, data pipelines with pandas
+- **Current study:** LLM integration, data pipelines with pandas
 - **Exploring:** Mobile app deployment, prompt engineering, AI-powered product architecture
 
 ---
